@@ -544,7 +544,14 @@ h1{
         padding: 5vh;
     }
 
-    .faq_list{
+    .faq__title{
+        font-size: 36px;
+        text-align: center;
+        padding-bottom: 2vh;
+        color: #F4FFC3;
+    }
+
+    .faq__list{
         width: 85%;
     }
 
